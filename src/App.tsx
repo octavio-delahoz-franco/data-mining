@@ -1,12 +1,12 @@
 export default function App() {
   return (
     <>
-      <header className="mt-[10px] mb-[10px] mx-auto w-5/6 bg-[#F5F5F5] py-5">
+      <header className="mt-[10px] mb-[10px] mx-auto w-5/6 bg-[#EDF6FF] py-5 rounded">
         <h1 className="text-center text-4xl text-[#0471A6] font-bold">Data Mining Project</h1>
         <h4 className="text-center text-[#0471A6] mt-2">By: Octavio De La Hoz Franco</h4>
       </header>
-      <main className="my-[30px] mx-auto w-5/6 px-2">
-        <section className="my-[30px]">
+      <main className="my-[30px] mx-auto w-5/6 px-8 py-7 bg-[#FFFEF6] border border-[#F5F5F5] rounded">
+        <section className="mb-[30px]">
           <div className="text-2xl text-[#0471A6] border-b">Introduction</div>
           <br />
           <p className="text-[#39393A]">
